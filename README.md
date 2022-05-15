@@ -5,6 +5,6 @@ Added SIMD Instruction up to SSE3 using np21w i386 emulation(Neko Processor II m
 
 Added WINE and Windows 11 support for the aarch32 environment!
 
-Improved cpihook will be used on WINE and/or Windows 11!
+Improved cpihook to usable on WINE and/or Windows 11!
 
-Changed peloader.exe and peloaderc.exe machine code entrypoint from 0x400000 to 0x300000 in order to execute them on wine!
+Changed peloader.exe and peloaderc.exe machine code entrypoint from 0x400000 to 0x300000 in order to execute them on the WINE!
