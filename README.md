@@ -1,7 +1,7 @@
 # x86node-SP1-zip
 New Feautures
 
-Added SIMD Instruction using np21w i386 emulation(Neko Processor II mode) to dosbox_emu.dll!
+Added SIMD Instruction up to SSE3 using np21w i386 emulation(Neko Processor II mode) to dosbox_emu.dll!
 
 Added WINE and Windows 11 support for the aarch32 environment!
 
