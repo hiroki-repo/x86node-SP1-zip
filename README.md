@@ -3,7 +3,7 @@ New Feautures
 
 Added SIMD Instruction using np21w i386 emulation(Neko Processor II mode) to dosbox_emu.dll!
 
-Added WINE and Windows 11 for aarch32 environment Support!
+Added WINE and Windows 11 support for aarch32 environment Support!
 
 Improved cpihook will be used on WINE and/or Windows 11!
 
